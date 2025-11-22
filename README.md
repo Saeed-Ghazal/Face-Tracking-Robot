@@ -7,10 +7,7 @@ The robot uses **Computer Vision** to detect human faces and automatically move 
 
 ## 📸 System Preview
 
-<video width="600" controls>
-  <source src="https://github.com/Saeed-Ghazal/Face-Tracking-Robot/blob/main/Video%202025-11-22%20at%2018.44.50_e2934349.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="https://github.com/Saeed-Ghazal/Face-Tracking-Robot/blob/main/face_tracking_camera-master/Image%20Nov%2021,%202025,%2003_02_50%20PM.png?raw=true" alt="Face Tracking Camera" style="width: 400px; max-width: 100%; height: auto;" />
 
 <img 
   src="https://github.com/Saeed-Ghazal/Face-Tracking-Robot/blob/main/face_tracking_camera-master/Image%20Nov%2021,%202025,%2003_02_50%20PM.png?raw=true" 
