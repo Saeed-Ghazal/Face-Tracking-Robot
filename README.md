@@ -9,11 +9,6 @@ The robot uses **Computer Vision** to detect human faces and automatically move 
 
 <img src="https://github.com/Saeed-Ghazal/Face-Tracking-Robot/blob/main/face_tracking_camera-master/Image%20Nov%2021,%202025,%2003_02_50%20PM.png?raw=true" alt="Face Tracking Camera" style="width: 400px; max-width: 100%; height: auto;" />
 
-<img 
-  src="https://github.com/Saeed-Ghazal/Face-Tracking-Robot/blob/main/face_tracking_camera-master/Image%20Nov%2021,%202025,%2003_02_50%20PM.png?raw=true" 
-  alt="Face Tracking Camera" 
-  style="width: 350px; border-radius: 10px;" 
-/>
 
 ---
 
