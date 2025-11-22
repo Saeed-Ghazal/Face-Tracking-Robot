@@ -60,6 +60,7 @@ The system includes a simple control interface:
 
 - Real-time face detection  
 - Pan–Tilt automatic servo stabilization  
-- LED feedback system  
+- LED feedback system
+- Automatic Tracking Mode: The camera automatically tracks the detected face and aligns it to the center of the screen.
 - Manual camera control via app  
 - Adjustable sensitivity and tracking speed  
