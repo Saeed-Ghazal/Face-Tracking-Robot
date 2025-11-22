@@ -53,6 +53,7 @@ The system includes a simple control interface:
 | Solar Panel | Recharges the battery |
 | Rechargeable Battery | Powers the Arduino and servos |
 | Pan-Tilt Bracket | Mounts the camera and servos |
+<img src="https://github.com/Saeed-Ghazal/Face-Tracking-Robot/blob/main/Screenshot%202024-12-22%20213406.png?raw=true" alt="Face Tracking Screenshot" style="width: 400px; max-width: 100%; height: auto;" />
 
 ---
 
